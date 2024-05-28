@@ -1,0 +1,21 @@
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\To Do List App.exe.config
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\To Do List App.exe
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\To Do List App.pdb
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.exe
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\obj\Debug\To Do List App.pdb
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\System.Data.SQLite.dll
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\bin\Debug\System.Data.SQLite.xml
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\obj\Debug\To Do Li.3892D372.Up2Date
+C:\Users\Stefan\source\repos\To Do List App\To Do List App\obj\Debug\To_Do_List_App.BaseToDoListForm.resources
